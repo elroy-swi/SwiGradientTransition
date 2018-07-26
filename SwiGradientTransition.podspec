@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "SwiGradientTransition"
-  
+
   s.version      = "1.0.0"
 
   s.summary      = "Colors transition"
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/elroy-swi/SwiGradientTransition.git", :branch => "master", :tag => s.version }
 
-  s.source_files = "SwiGradientTransition/**/*.swift"
+  s.source_files = "SwiGradientTransition/*.swift"
 
   s.frameworks = "UIKit"
 
