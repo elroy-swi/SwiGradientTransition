@@ -1,0 +1,24 @@
+PODS:
+  - EasyPeasy (1.7.0)
+  - SwiGradientTransition (1.0.0):
+    - EasyPeasy (~> 1.7.0)
+
+DEPENDENCIES:
+  - EasyPeasy
+  - SwiGradientTransition (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - EasyPeasy
+
+EXTERNAL SOURCES:
+  SwiGradientTransition:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EasyPeasy: 2f2785ed78c6f9e9045221f2ff317730e7321bff
+  SwiGradientTransition: b64e2a696f866dee097eb82e3400deefb4e66262
+
+PODFILE CHECKSUM: 2a61c9efd554736b1a361330183ea715e49fb654
+
+COCOAPODS: 1.5.3

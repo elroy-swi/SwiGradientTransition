@@ -1,0 +1,6 @@
+framework module SwiGradientTransition {
+  umbrella header "SwiGradientTransition-umbrella.h"
+
+  export *
+  module * { export * }
+}

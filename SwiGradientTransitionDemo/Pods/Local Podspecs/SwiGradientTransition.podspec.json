@@ -1,0 +1,28 @@
+{
+  "name": "SwiGradientTransition",
+  "version": "1.0.0",
+  "summary": "Colors transition",
+  "description": "It is a SwiGradientTransition used on iOS, which implement by Swift.",
+  "homepage": "https://github.com/elroy-swi/SwiGradientTransition",
+  "license": "MIT",
+  "authors": {
+    "elroy-swi": "swi.elroy@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_version": "4.1",
+  "requires_arc": true,
+  "source": {
+    "git": "https://github.com/elroy-swi/SwiGradientTransition.git",
+    "branch": "master",
+    "tag": "1.0.0"
+  },
+  "source_files": "SwiGradientTransition/**/*.swift",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "EasyPeasy": [
+      "~> 1.7.0"
+    ]
+  }
+}

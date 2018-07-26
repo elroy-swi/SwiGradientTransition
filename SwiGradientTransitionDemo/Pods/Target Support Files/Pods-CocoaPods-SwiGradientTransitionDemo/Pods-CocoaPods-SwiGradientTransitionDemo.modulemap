@@ -1,0 +1,6 @@
+framework module Pods_CocoaPods_SwiGradientTransitionDemo {
+  umbrella header "Pods-CocoaPods-SwiGradientTransitionDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
